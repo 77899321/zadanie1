@@ -49,9 +49,5 @@ namespace lab1
             Console.WriteLine(l.remov("лама пальма калодец", "а"));
             Console.WriteLine(l.leng("asl;kdfsdjfsdlkf"));
         }
-
     }
-
-
-
 }
